@@ -334,8 +334,11 @@
 "Assets/Animation Clip/Script/Parallax.cs"
 "Assets/Animation Retargeting/Script/Character.cs"
 "Assets/Animation Retargeting/Script/Skeleton.cs"
+"Assets/Light/Script/Movement.cs"
 "Assets/Physics/Script/BilliardBall.cs"
 "Assets/Physics/Script/PhysicsManager.cs"
+"Assets/Rotation/Script/Observe.cs"
+"Assets/Rotation/Script/Revolution.cs"
 "Assets/Tutorial/Script/NewBehaviourScript.cs"
 -langversion:9.0
 
